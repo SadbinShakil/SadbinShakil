@@ -31,3 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadbinshakil&show_icons=true&theme=dark&locale=en" alt="sadbinshakil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadbinshakil&theme=dark" alt="sadbinshakil" /></p>
+
+
+<h2 align="center">Visitors Count</h2>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SadbinShakil}/count.svg" /></p> 
